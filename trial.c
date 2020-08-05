@@ -1,7 +1,8 @@
 include<stdio.h>
 
 int main(){
-    int a;
-    int b;
+    int a,b;
+    int c=a+b;
+    printf("%d",c);
     
 }
